@@ -22,8 +22,5 @@ This project monitors temperature and humidity using ESP32 and DHT11 sensor. Dat
 4. Import flow.json
 5. Open dashboard
 
-## 📸 Output
-(Add screenshots here)
-
 ## 📄 Report
-(Add PDF link)
+https://github.com/tejastambe123/upskillcampus/blob/main/Tejas_Tambe_Internship_Report.pdf
