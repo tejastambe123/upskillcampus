@@ -1,0 +1,24 @@
+[
+    {
+        "id": "mqtt_in",
+        "type": "mqtt in",
+        "topic": "weather/data",
+        "broker": "broker.hivemq.com"
+    },
+    {
+        "id": "json",
+        "type": "json"
+    },
+    {
+        "id": "gauge_temp",
+        "type": "ui_gauge",
+        "name": "Temperature",
+        "label": "°C"
+    },
+    {
+        "id": "gauge_hum",
+        "type": "ui_gauge",
+        "name": "Humidity",
+        "label": "%"
+    }
+]
